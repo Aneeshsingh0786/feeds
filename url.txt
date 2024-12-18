@@ -1,0 +1,2 @@
+https://badssl.com/
+https://pinning-test.badssl.com/
