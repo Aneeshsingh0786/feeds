@@ -5,27 +5,7 @@ https://pinning-test.badssl.com/
 example.com
 require 'ipaddress/prefix'
 
-module IPAddress; 
-  # 
-  # =Name
-  # 
-  # IPAddress::IPv4 - IP version 4 address manipulation library
-  #
-  # =Synopsis
-  #
-  #    require 'ipaddress'
-  #
-  # =Description
-  # 
-  # Class IPAddress::IPv4 is used to handle IPv4 type addresses. 
-  #
-  class IPv4
-    
-    include IPAddress
-    include Enumerable  
-    include Comparable                  
-    
-    #
+
     # This Hash contains the prefix values for Classful networks
     #
     # Note that classes C, D and E will all have a default 
