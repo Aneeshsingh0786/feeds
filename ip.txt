@@ -1,2 +1,4 @@
 23.34.45.56
 4.4.4.4
+https://badssl.com/
+https://pinning-test.badssl.com/
