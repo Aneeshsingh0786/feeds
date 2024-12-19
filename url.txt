@@ -8,7 +8,6 @@ https://abc.com
 "4","youtube.com","10.00"
 "5","twitter.com","10.00"
 "6","instagram.com","10.00"
-"7","googletagmanager.com","10.00"
 "8","s.w.org","10.00"
 "9","linkedin.com","10.00"
 "10","fonts.gstatic.com","10.00"
